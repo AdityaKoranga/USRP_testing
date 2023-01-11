@@ -1,10 +1,12 @@
 # USRP_testing
 
 ## Firstly clone the OAI repo
+
 ```bash 
 git clone https://gitlab.eurecom.fr/oai/openairinterface5g.git
 ```
-``bash
+
+```bash
 git checkout develop
 ```
 ```bash
